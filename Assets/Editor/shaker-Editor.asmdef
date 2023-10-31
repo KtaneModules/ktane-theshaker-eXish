@@ -1,0 +1,10 @@
+{
+  "name": "shaker-Editor",
+  "references": [
+    "shaker"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
